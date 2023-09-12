@@ -1,0 +1,4 @@
+1,play tennis,0
+2,go to the mall,0
+3,study history,1
+4,buy some groceries,0
